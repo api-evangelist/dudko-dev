@@ -1,0 +1,23 @@
+aid: dudko-dev
+name: dudko-dev
+description: 'dudko-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry)
+  and added to the network as a stub for full-pipeline profiling.'
+url: https://artifacts.apis.io/dudko-dev/apis.yml
+x-type: company
+x-source: harvest:mcp-registry
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-10-29'
+modified: '2026-10-29'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://dudko.dev/
